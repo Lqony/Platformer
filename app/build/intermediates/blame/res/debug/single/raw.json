@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\templateframes",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\templateframes"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kirby_stand",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\kirby_stand"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\betaanimations",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\betaanimations"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\betaframes",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\betaframes"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\betaplatform",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\betaplatform"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kirby_jump",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\kirby_jump"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kirby_walk",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\kirby_walk"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\betamain",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\betamain"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\analoginside",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\analoginside"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\analogoutside",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\analogoutside"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\kirby_jump_side",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\kirby_jump_side"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\animation_template",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\animation_template"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ghoststand",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\ghoststand"
+    },
+    {
+        "merged": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\betaframes1",
+        "source": "C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\src\\main\\res\\raw\\betaframes1"
+    }
+]

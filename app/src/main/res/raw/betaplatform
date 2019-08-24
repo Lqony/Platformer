@@ -1,0 +1,25 @@
+float first_frame_x; IN PIXELS
+1000
+float first_frame_y; IN PIXELS
+400
+float source_frame_w; IN PIXELS
+400
+float source_frame_h; IN PIXELS
+200
+int roll;
+0
+float dest_frame_w; IN TEXTURE VALUE, AFTER LOADING DIVEDED BY 1000
+400
+float dest_frame_h; IN TEXTURE VALUE, AFTER LOADING DIVEDED BY 1000
+200
+float change_x; IN TEXTURE VALUE, AFTER LOADING DIVEDED BY 1000
+0
+float change_y; IN TEXTURE VALUE, AFTER LOADING DIVEDED BY 1000
+-160
+int frame_amount;
+1
+int repeat_from;
+1
+float delay_time;
+0
+

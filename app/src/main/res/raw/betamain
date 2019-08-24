@@ -1,0 +1,21 @@
+Frame Amount
+9
+Frames File Name
+betaframes1
+4
+betaanimations
+500
+1000
+3
+0
+0
+Player File:
+int frames amount
+frames file
+int animations_amount
+animations file
+movement_velocity; divided by 1000
+jump_power; divided by 1000
+air_jump_amount;
+air_vertical_velocioty;
+fall_velocity;

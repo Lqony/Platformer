@@ -1,0 +1,98 @@
+
+{
+	"buildFiles" : [ "C:/AndroidStudio/Projects/CPLUSPLUS/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\AndroidStudio\\Projects\\CPLUSPLUS\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Liczba.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Timer.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Animation.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Square.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/InputHandler.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/GUIAnalog.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Platform.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/PlayerFrame.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Player.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/platforms/android-15/arch-x86  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\android\\support\\include -isystem C:\\Oxygine\\oxygine-framework-with-sdl\\android\\tools_r25.2.3-windows\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/src/main/cpp/Renderer.cpp",
+					"workingDirectory" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "C:/AndroidStudio/Projects/CPLUSPLUS/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+			"toolchain" : "3771098525"
+		}
+	},
+	"toolchains" : 
+	{
+		"3771098525" : 
+		{
+			"cCompilerExecutable" : "C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Oxygine/oxygine-framework-with-sdl/android/tools_r25.2.3-windows/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

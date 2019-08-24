@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CPLUSPLUS</string>
+    <string name="VertexShader">    uniform mat4 uMVPMatrix;
+                                    attribute vec4 vPosition;
+                                    attribute vec2 a_texCoord;
+                                    varying vec2 v_texCoord;
+                                    void main(){
+                                    gl_Position = uMVPMatrix * vPosition";
+                                    v_texCoord = a_texCoord;}</string>
+
+    <string name="FragmentShader">  precision mediump float;
+                                    varying vec2 v_texCoord;
+                                    uniform sampler2D s_texture;
+                                    void main(){
+                                    gl_FragColor = texture2D(s_texture, v_texCoord);}</string>
+
+    <string name="Start">START</string>
+</resources>

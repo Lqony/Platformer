@@ -1,0 +1,19 @@
+Player File:
+int frames amount
+frames file
+int animations_amount
+animations file
+movement_velocity;
+jump_power;
+airjum_power_decrease;
+air_vertical_velocioty;
+fall_velocity;
+
+FrameFile:
+int movement_state;
+    int animation;
+    float after_x;
+    int go_to_x;
+    int is_left_go_to;
+    int is_right_go_to;
+
